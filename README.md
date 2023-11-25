@@ -9,7 +9,7 @@ https://auckland.figshare.com/articles/dataset/NeurIPS_2022_Datasets/21397377
 
 3 - Extract "abide.zip" and paste the "abide" folder in the "ABIDE" Google Drive folder
 
-4 - Upload the Jupyter Notebook pipeline.ipynb to Google Colab
+4 - Upload the Jupyter Notebook "pipeline.ipynb" to Google Colab
 
 5 - Run the Jupyter Notebook
 
